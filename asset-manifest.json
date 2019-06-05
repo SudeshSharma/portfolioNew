@@ -1,15 +1,15 @@
 {
-  "main.css": "/portfolioNew/static/css/main.dd1a8ff9.chunk.css",
-  "main.js": "/portfolioNew/static/js/main.364e4986.chunk.js",
-  "main.js.map": "/portfolioNew/static/js/main.364e4986.chunk.js.map",
-  "runtime~main.js": "/portfolioNew/static/js/runtime~main.d607686b.js",
-  "runtime~main.js.map": "/portfolioNew/static/js/runtime~main.d607686b.js.map",
-  "static/js/2.fe5796e6.chunk.js": "/portfolioNew/static/js/2.fe5796e6.chunk.js",
-  "static/js/2.fe5796e6.chunk.js.map": "/portfolioNew/static/js/2.fe5796e6.chunk.js.map",
-  "index.html": "/portfolioNew/index.html",
-  "precache-manifest.8291c7d3d1e4d8d6e78da3461ab1f5e2.js": "/portfolioNew/precache-manifest.8291c7d3d1e4d8d6e78da3461ab1f5e2.js",
-  "service-worker.js": "/portfolioNew/service-worker.js",
-  "static/css/main.dd1a8ff9.chunk.css.map": "/portfolioNew/static/css/main.dd1a8ff9.chunk.css.map",
-  "static/media/author.jpeg": "/portfolioNew/static/media/author.94cc7506.jpeg",
-  "static/media/resume.pdf": "/portfolioNew/static/media/resume.fe7980f0.pdf"
+  "main.css": "/portfolionew/static/css/main.dd1a8ff9.chunk.css",
+  "main.js": "/portfolionew/static/js/main.2eec54bf.chunk.js",
+  "main.js.map": "/portfolionew/static/js/main.2eec54bf.chunk.js.map",
+  "runtime~main.js": "/portfolionew/static/js/runtime~main.eaecfc40.js",
+  "runtime~main.js.map": "/portfolionew/static/js/runtime~main.eaecfc40.js.map",
+  "static/js/2.fe5796e6.chunk.js": "/portfolionew/static/js/2.fe5796e6.chunk.js",
+  "static/js/2.fe5796e6.chunk.js.map": "/portfolionew/static/js/2.fe5796e6.chunk.js.map",
+  "index.html": "/portfolionew/index.html",
+  "precache-manifest.0a266560aa4f1c4b05e4791cc5efb288.js": "/portfolionew/precache-manifest.0a266560aa4f1c4b05e4791cc5efb288.js",
+  "service-worker.js": "/portfolionew/service-worker.js",
+  "static/css/main.dd1a8ff9.chunk.css.map": "/portfolionew/static/css/main.dd1a8ff9.chunk.css.map",
+  "static/media/author.jpeg": "/portfolionew/static/media/author.94cc7506.jpeg",
+  "static/media/resume.pdf": "/portfolionew/static/media/resume.fe7980f0.pdf"
 }
