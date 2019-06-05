@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import resume from '../Images/resume.pdf'
 const imgDB = require("../Images/author.jpeg")
 const divStyle = {
   backgroundImage: `url(${imgDB})`
@@ -19,7 +20,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Sudesh </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1E_OruNn9FIbtp4d5ik3u1wwmaepfAdPC/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href={resume} target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
